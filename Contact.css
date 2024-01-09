@@ -1,0 +1,42 @@
+
+#Active {
+    color: wheat !important;
+    border-bottom: 1px solid wheat;
+}
+
+.nav-link {
+    color: white !important;
+    margin-left: 15px;
+    padding-left: 0%;
+}
+
+.nav-link:hover {
+    color: wheat !important;
+    border-bottom: 1px solid wheat;
+  }
+
+
+.LF {
+    margin-left: 25px;
+}
+
+.col {
+    height: 90px;
+    width: 1000px;
+}
+
+#T {
+    height: 120px;
+}
+
+#E {
+    height: 45px;
+}
+
+#DE {
+    height: 45px;
+    width: 466px;
+}
+
+
+

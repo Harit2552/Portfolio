@@ -1,0 +1,45 @@
+
+#Main_Section{
+    background-image: url("main_img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Navbar {
+    justify-content: space-between;
+}
+
+#Active {
+    color: wheat !important;
+    border-bottom: 1px solid wheat;
+}
+
+.nav-link {
+    color: white !important;
+    margin-left: 15px;
+    padding-left: 0px;
+}
+
+.nav-link:hover {
+    color: wheat !important;
+    border-bottom: 1px solid wheat;
+
+  }
+
+.About {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0 15px;
+    font-family: monospace;
+}
+
+@keyframes k {
+    0%{ opacity: 0%;}
+    50%{opacity: 50%;}
+    100%{ opacity: 100%;}
+}
+
+#animi {
+    animation: k 2.0s ease-in-out;
+}

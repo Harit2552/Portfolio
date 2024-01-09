@@ -1,0 +1,23 @@
+#Active {
+    color: wheat !important;
+    border-bottom: 1px solid wheat;
+}
+
+.nav-link {
+    color: white !important;
+    margin-left: 15px;
+    padding-left: 0%;
+}
+
+.nav-link:hover {
+    color: wheat !important;
+    border-bottom: 1px solid wheat;
+  }
+
+#Col_ {
+    width:32%;
+}
+
+#Col_:hover{
+    background-color: bisque;
+}
